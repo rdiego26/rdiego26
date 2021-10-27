@@ -1,6 +1,4 @@
-![Sync](https://github.com/rdiego26/rdiego26/workflows/Sync/badge.svg)
-
-## Hello, there! 🤓
+## Hello, there!
 
 A leader and generalist software engineer with 13+ years of experience in building non-trivial web applications facing high scale environments. My strongest backend languages is JVM languages(like Java, Kotlin and Scala) and Javascript together with a good skills in frontend development(HTML, CSS & Javascript) and user experience.
 
